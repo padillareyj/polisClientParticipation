@@ -4,7 +4,7 @@ var preloadHelper = require("./util/preloadHelper");
 var Utils = require("./util/utils");
 
 var translations = {
-  en_us: require("./strings/en_us.js"),
+  en_us: require("./strings/th_th.js"),
   // ja:  require("./strings/ja.js"),
 
   // zh-Hant is Traditional Chinese (TW, MO and HK can use the same file.)
